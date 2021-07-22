@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ojdbc5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/ojdbc5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/ons.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/orai18n.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/simplefan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/ucp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../OJDBC-Full/xdb6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
